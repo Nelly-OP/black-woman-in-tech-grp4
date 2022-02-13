@@ -1,0 +1,28 @@
+body {
+  background: #77c3ec;
+}
+
+img {
+  width: 30%;
+  height: 30%;
+  border-radius: 20%;
+}
+
+div {
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  font-size: 25px;
+}
