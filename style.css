@@ -6,6 +6,7 @@ img {
   width: 30%;
   height: 30%;
   border-radius: 20%;
+  box-shadow: 10px 10px rgb(238, 130, 238);
 }
 
 div {
@@ -25,4 +26,18 @@ h1 {
 
 p {
   font-size: 25px;
+}
+#caption{
+  background-color: violet;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+ margin-top: 80px;
+border: dotted 3px navy;
+border-radius: 10px;
+}
+ul{ 
+  text-align: center;
+ list-style-position: inside;
+ font-size: 20px;
 }
